@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo13845
 Fork on GitHub3683
 <h1 align="center">Hi 👋, I'm Kenny</h1>
-<h3 align="center">IT teacher/Student in coding</h3>
+<h3 align="center">IT teacher/Student coding @42 Amsterdam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennyohhst&label=Profile%20views&color=f5c211&style=plastic" alt="kennyohhst" /> </p>
 
