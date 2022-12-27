@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenny</h1>
-<h3 align="center">parttime IT teacher | Student coding @42 Amsterdam</h3>
+<h3 align="center">parttime IT teacher | Student coder @42 Amsterdam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennyohhst&label=Profile%20views&color=f5c211&style=plastic" alt="kennyohhst" /> </p>
 
